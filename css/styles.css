@@ -25,12 +25,18 @@ table {
   }
 
   body {
-    background-color: DFFFD8;
+    background-color: #DFFFD8;
   }
 
   hr {
     border-style: none;
-    color: rgb(65, 65, 31);
-    height: 2px;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  h1, h2, h3 {
+    color: #93C6E7
   }
   
